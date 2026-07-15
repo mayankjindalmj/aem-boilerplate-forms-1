@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+    url: https://squall-freeness-legible.ngrok-free.dev/bin/franklin.delivery/mayankjindalmj/aem-boilerplate-forms-1/main
+    type: "markup"
+    suffix: ".html"
